@@ -1,0 +1,5 @@
+Description:
+Managed server - jupyter notebook in Pycharm started and stopped quickly and didn't run codes.
+
+Terminal command:
+             "python3 -m pip install jupyter notebook -U --force-reinstall"
